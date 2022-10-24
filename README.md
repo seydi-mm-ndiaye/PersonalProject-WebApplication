@@ -3,7 +3,7 @@ This web application presents a country catalog where one can search, add, edit 
 
 The information presented by the catalog about a country are : official name, capaital name, region, size.
 
-To test it, run these command in a terminal : 
+To test it, run these commands in a terminal: 
 
 ./mwn clean package
 
