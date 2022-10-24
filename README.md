@@ -6,4 +6,5 @@ The information presented by the catalog about a country are : official name, ca
 To test it, run these command in a terminal : 
 
 ./mwn clean package
+
 java -jar cataloguepays.0.0.1-SNAPSHOT.jar"
