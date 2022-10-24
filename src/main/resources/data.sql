@@ -1,0 +1,11 @@
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Afghanistan', 'Kabul', 'Southern Asia', 647500);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Argentina', 'Buenos Aires', 'Latin America and the Caribbean', 2766890);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Belgium', 'Brussels', 'Western Europe', 30528);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Burkina Faso', 'Ouagadougou', 'Sub-Saharan Africa', 274200);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Cameroon', 'Yaoundé', 'Sub-Saharan Africa', 475440);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Ethiopia', 'Addis Ababa', 'Sub-Saharan Africa', 1127127);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'France', 'Paris', 'Western Europe', 547030);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Ireland', 'Dublin', 'Northern Europe', 70280);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Senegal', 'Dakar', 'Sub-Saharan Africa', 196190);
+INSERT INTO Country(id, name, capital, region, size) VALUES (default, 'Zambia', 'Lusaka', 'Sub-Saharan Africa', 752614);
+COMMIT; 
